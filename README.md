@@ -1,4 +1,4 @@
-# kiit_cgpa_calculator
+# KIIT UniScore
 
 A new Flutter project.
 
